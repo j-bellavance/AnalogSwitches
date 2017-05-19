@@ -1,0 +1,4 @@
+AnalogSwitches	KEYWORD1
+addSwitches	KEYWORD2
+pressed	KEYWORD2
+getIndex	KEYWORD2
