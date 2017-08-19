@@ -5,7 +5,7 @@
 //Jacques Bellavance
 //19/05/2017
 //GNU GENERAL PUBLIC LICENSE
-//Version 3, 29 June 2007
+//Version 3, 29 June 2017
 
 #include <Arduino.h>
 #include "AnalogSwitches.h"
